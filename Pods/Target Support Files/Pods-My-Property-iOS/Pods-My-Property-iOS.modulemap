@@ -1,0 +1,6 @@
+framework module Pods_My_Property_iOS {
+  umbrella header "Pods-My-Property-iOS-umbrella.h"
+
+  export *
+  module * { export * }
+}
